@@ -44,7 +44,7 @@ djangocms-snippet==2.1.0
 djangocms-style==2.1.0
 djangocms-text-ckeditor==3.7.0
 djangocms-video==2.1.1
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 easy-thumbnails==2.6
 Fabric3==1.14.post1
 Faker==0.9.1
