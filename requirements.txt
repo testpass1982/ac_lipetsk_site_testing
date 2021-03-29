@@ -67,7 +67,7 @@ psycopg2-binary==2.7.7
 py==1.8.0
 pyasn1==0.4.5
 pycparser==2.19
-Pygments==2.4.0
+Pygments==2.7.4
 pygount==1.0.0
 PyJWT==1.6.4
 pylint==2.2.2
