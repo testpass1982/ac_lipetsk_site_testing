@@ -91,7 +91,7 @@ social-auth-core==1.7.0
 text-unidecode==1.2
 tzlocal==1.5.1
 Unidecode==1.0.23
-urllib3==1.23
+urllib3==1.26.5
 webencodings==0.5.1
 Whoosh==2.7.4
 wrapt==1.10.11
