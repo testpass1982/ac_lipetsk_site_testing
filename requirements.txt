@@ -69,7 +69,7 @@ pyasn1==0.4.5
 pycparser==2.19
 Pygments==2.4.0
 pygount==1.0.0
-PyJWT==1.6.4
+PyJWT==2.4.0
 pylint==2.2.2
 pylint-django==2.0.2
 pylint-plugin-utils==0.4
